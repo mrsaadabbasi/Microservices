@@ -1,0 +1,14 @@
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\bin\Release\netcoreapp2.2\Microservice.Gateway.deps.json
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\bin\Release\netcoreapp2.2\Microservice.Gateway.runtimeconfig.json
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\bin\Release\netcoreapp2.2\Microservice.Gateway.runtimeconfig.dev.json
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\bin\Release\netcoreapp2.2\Microservice.Gateway.dll
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\bin\Release\netcoreapp2.2\Microservice.Gateway.pdb
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.csprojAssemblyReference.cache
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.csproj.CoreCompileInputs.cache
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.RazorAssemblyInfo.cache
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.RazorAssemblyInfo.cs
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.AssemblyInfoInputs.cache
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.AssemblyInfo.cs
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.RazorTargetAssemblyInfo.cache
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.dll
+F:\Microservices Tutorial\MicroService\Microservice.Gateway\obj\Release\netcoreapp2.2\Microservice.Gateway.pdb
